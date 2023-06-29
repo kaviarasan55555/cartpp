@@ -86,7 +86,7 @@ function App() {
                 <div className="card-body p-4">
                   <div className="text-center">
                     <h5 className="fw-bolder">Fancy Product 1</h5>
-                    <h6 className="fw-bold">$40.00 - $80.00</h6>
+                    <h6 className="fw-bold">$40.00 </h6>
                   </div>
                 </div>
                 <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
@@ -110,7 +110,7 @@ function App() {
                 <div className="card-body p-4">
                   <div className="text-center">
                     <h5 className="fw-bolder">Fancy Product 2</h5>
-                    <h6 className="fw-bold">$60.00 - $120.00</h6>
+                    <h6 className="fw-bold">$60.00</h6>
                   </div>
                 </div>
                 <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
@@ -134,7 +134,7 @@ function App() {
                 <div className="card-body p-4">
                   <div className="text-center">
                     <h5 className="fw-bolder">Fancy Product 3</h5>
-                    <h6 className="fw-bold">$80.00 - $160.00</h6>
+                    <h6 className="fw-bold">$80.00</h6>
                   </div>
                 </div>
                 <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
